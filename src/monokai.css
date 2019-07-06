@@ -3,7 +3,7 @@ Monokai style - ported by Luigi Maselli - http://grigio.org
 */
 
 .highlight-line {
-  border-bottom-color: none;
+  border-bottom-color: none!important;
 }
 
 .hljs {
