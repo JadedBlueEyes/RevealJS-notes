@@ -2,7 +2,7 @@
 Monokai style - ported by Luigi Maselli - http://grigio.org
 */
 
-.highlight-line {
+.hljs-ln > tbody > tr {
   border-bottom-color: none!important;
 }
 

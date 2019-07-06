@@ -5,7 +5,7 @@ based on dark.css by Ivan Sagalaev
 
 */
 
-.highlight-line {
+.hljs-ln > tbody > tr {
   border-bottom-color: none!important;
 }
 
