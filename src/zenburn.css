@@ -5,6 +5,10 @@ based on dark.css by Ivan Sagalaev
 
 */
 
+.highlight-line {
+  border-bottom-color: none;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
