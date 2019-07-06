@@ -2,10 +2,6 @@
 Monokai style - ported by Luigi Maselli - http://grigio.org
 */
 
-.hljs-ln > tbody > tr {
-  border-bottom-color: none!important;
-}
-
 .hljs {
   display: block;
   overflow-x: auto;

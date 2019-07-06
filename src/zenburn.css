@@ -5,10 +5,6 @@ based on dark.css by Ivan Sagalaev
 
 */
 
-.hljs-ln > tbody > tr {
-  border-bottom-color: none!important;
-}
-
 .hljs {
   display: block;
   overflow-x: auto;
